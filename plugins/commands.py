@@ -64,7 +64,7 @@ async def start(bot, cmd):
 					[
 						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/psycho_syridwan'),
 						InlineKeyboardButton("🤖Other Bots", url="https://t.me/ossuport"),
-					]
+					],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
 						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/supbuz")
@@ -86,7 +86,7 @@ async def help(bot, cmd):
 					[
 						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/psycho_syridwan'),
 						InlineKeyboardButton("🤖Other Bots", url="https://t.me/ossuport"),
-					]
+					],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
 						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/supbuz")
@@ -109,7 +109,7 @@ async def stop(bot, cmd):
 					[
 						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/psycho_syridwan'),
 						InlineKeyboardButton("🤖Other Bots", url="https://t.me/ossuport"),
-					]
+					],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
 						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/supbuz")
