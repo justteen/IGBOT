@@ -100,14 +100,6 @@ bot.send(
                 command="restart",
                 description="Stop all processes and restart bot"
             ),
-            types.BotCommand(
-                command="scope",
-                description="Stop all processes and restart bot"
-            ),
-            types.BotCommand(
-                command="lang_code",
-                description="code lang"
-            ),
         ]
     )
 )
